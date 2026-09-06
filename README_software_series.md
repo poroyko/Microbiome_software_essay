@@ -8,7 +8,7 @@ An eight-chapter series surveying the software ecosystem for microbiome and micr
 
 | Ch. | Title | File | Tools |
 |---|---|---|---|
-| 1 | Prerequisites, Popularity, and Efficiency | [`microbiome_software_essay.md`](microbiome_software_essay.md) | 20 |
+| 1 | Foundational packages: Prerequisites, Popularity, and Efficiency | [`microbiome_software_essay_chapter1.md`](microbiome_software_essay.md) | 20 |
 | 2 | Compositional Inference, Diversity Networks, and Source Tracking | [`microbiome_software_essay_chapter2.md`](microbiome_software_essay_chapter2.md) | 9 |
 | 3 | Alternative Pipelines, Ordination Visualization, and Longitudinal Statistics | [`microbiome_software_essay_chapter3.md`](microbiome_software_essay_chapter3.md) | 6 |
 | 4 | Genome-Resolved Metagenomics (MAG Assembly, Binning, and Quality) | [`microbiome_software_essay_chapter4.md`](microbiome_software_essay_chapter4.md) | 6 |
@@ -16,8 +16,6 @@ An eight-chapter series surveying the software ecosystem for microbiome and micr
 | 6 | Beyond Species-Level MAGs (Viral Metagenomics and Strain Tracking) | [`microbiome_software_essay_chapter6.md`](microbiome_software_essay_chapter6.md) | 5 |
 | 7 | Pure Isolate WGS (Assembly, AMR, Serotyping, and Genome Comparison) | [`microbiome_software_essay_chapter7.md`](microbiome_software_essay_chapter7.md) | 7 |
 | 8 | Outbreak Phylogenetics and Long-Read Assembly Refinement | [`microbiome_software_essay_chapter8.md`](microbiome_software_essay_chapter8.md) | 5 |
-
-*Note: Chapter 1's file predates the numbered-filename convention adopted from Chapter 2 onward. Rename it to `microbiome_software_essay_chapter1.md` before upload if you'd like fully consistent filenames.*
 
 ## What Each Chapter Covers
 
@@ -126,4 +124,4 @@ Every tool description across all 8 chapters is a paraphrased summary of the cit
 
 ## License
 
-Add a license of your choosing (e.g. MIT or CC-BY 4.0, given the substantial prose content) before publishing this repository publicly.
+MIT copyright Valeriy Poroyko.
