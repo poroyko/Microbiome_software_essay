@@ -10,7 +10,7 @@ This is a revised edition following a systematic gap-analysis pass: 12 tools (mo
 
 | Ch. | Title | File | Tools |
 |---|---|---|---|
-| 1 | Prerequisites, Popularity, and Efficiency | [`microbiome_software_essay_chapter1.md`](microbiome_software_essay_chapter1.md) | 20 |
+| 1 | Foundational packages. Prerequisites, Popularity, and Efficiency | [`microbiome_software_essay_chapter1.md`](microbiome_software_essay_chapter1.md) | 20 |
 | 2 | Compositional Inference, Diversity Networks, and Source Tracking | [`microbiome_software_essay_chapter2.md`](microbiome_software_essay_chapter2.md) | 8 |
 | 3 | Alternative Pipelines, Ordination Visualization, and Longitudinal Statistics | [`microbiome_software_essay_chapter3.md`](microbiome_software_essay_chapter3.md) | 6 |
 | 4 | Genome-Resolved Metagenomics (MAG Assembly, Binning, and Quality) | [`microbiome_software_essay_chapter4.md`](microbiome_software_essay_chapter4.md) | 10 |
@@ -141,7 +141,7 @@ Every tool description across all 8 chapters is a paraphrased summary of the cit
 
 ## License
 
-Add a license of your choosing (e.g. MIT or CC-BY 4.0, given the substantial prose content) before publishing this repository publicly.
+CC-BY 4.0, @ Valeriy Poroyko.
 
 ## Revision Note
 
