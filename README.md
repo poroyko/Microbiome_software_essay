@@ -141,7 +141,7 @@ Every tool description across all 8 chapters is a paraphrased summary of the cit
 
 ## License
 
-CC-BY 4.0, @ Valeriy Poroyko.
+MIT, @ Valeriy Poroyko.
 
 ## Revision Note
 
